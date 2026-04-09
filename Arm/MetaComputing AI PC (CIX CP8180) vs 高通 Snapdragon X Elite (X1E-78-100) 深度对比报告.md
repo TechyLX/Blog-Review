@@ -339,12 +339,6 @@ CIX P1 是标准 ARM Linux 开发板：
 
 ## 附录
 
-### 参考链接
-
-- [CIX Technology](https://www.cixtech.com/)
-- [Framework Laptop 13](https://frame.work/)
-- [Qualcomm Snapdragon X Elite](https://www.qualcomm.com/snapdragon/pcs-and-tablets)
-
 ### 版本历史
 
 | 版本 | 日期 | 更新内容 |
