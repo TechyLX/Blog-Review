@@ -1,6 +1,5 @@
 # MetaComputing AI PC (CIX CP8180) vs 高通 Snapdragon X Elite (X1E-78-100) 深度对比报告
 
-> 📅 生成时间: 2026年4月9日  
 > 🖥️ 对比设备: MetaComputing AI PC (Framework Laptop 13) vs 高通 Snapdragon X Elite 笔记本
 
 ---
@@ -334,13 +333,4 @@ CIX P1 是标准 ARM Linux 开发板：
 - 依赖 Windows 软件生态
 - 需要即开即用的体验
 
----
-
-## 附录
-
-### 版本历史
-
-| 版本 | 日期 | 更新内容 |
-|------|------|---------|
-| v1.0 | 2026-04-09 | 初始版本 |
 
